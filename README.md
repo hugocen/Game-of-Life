@@ -1,6 +1,8 @@
 # Game-of-Life  
 ![alt Dr.Conway](assets/John_Conway.jpg?raw=true "Dr.Conway")  
-In memory of Dr. John Horton Conway.
+In memory of Dr. John Horton Conway.  
+
+[What is Game of Life?](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 ## Demo   
 ![alt Demo](assets/Demo.gif?raw=true  "Demo")  
@@ -23,5 +25,5 @@ You can run the code by
 python main.py
 ```  
 
-and Vola! Looks Amazing isn't it?
+And Vola! Looks Amazing isn't it?
 
