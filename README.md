@@ -1,9 +1,9 @@
 # Game-of-Life  
-[image](assets/John_Conway.jpg)  
-In memory of Dr. John Horton Conway
+[alt Dr.Conway](assets/John_Conway.jpg "Dr.Conway")  
+In memory of Dr. John Horton Conway.
 
 ## Demo  
-[image](assets/Demo.gif)  
+[alt Demo](assets/Demo.gif  "Demo")  
 
 ## Setup  
 This code uses Python 3  
