@@ -53,7 +53,7 @@ class GameofLife:
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("-s", "--seed", type=int, default=3000,
-                    help="increase output verbosity")
+                    help="number of random life dor the initial state")
     parser.add_argument("-gh", "--game_height", type=int, default=150,
                     help="height of the game map")
     parser.add_argument("-gw", "--game_width", type=int, default=200,
